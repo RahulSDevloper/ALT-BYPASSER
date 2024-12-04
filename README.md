@@ -2,7 +2,7 @@
 
 # ALT BYPASSER
 
-<a href="https://ibb.co/JmMJqfM"><img src="https://i.ibb.co/JmMJqfM/icon128.png" alt="icon128" border="0" /></a>
+<img src="https://i.ibb.co/JmMJqfM/icon128.png" alt="ALT BYPASSER Logo" width="128" height="128" />
 
 *Bypass most payment intents with ease!*
 
@@ -19,7 +19,7 @@
 
 ## 💳 Supported Payment Gateways
 
-![Stripe](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Stripe_Logo%2C_revised_2016.svg/2560px-Stripe_Logo%2C_revised_2016.svg.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Stripe_Logo%2C_revised_2016.svg/2560px-Stripe_Logo%2C_revised_2016.svg.png" alt="Stripe" width="200" />
 
 ## 📥 Download
 
@@ -31,7 +31,7 @@
 
 Please watch the installation tutorial video below for step-by-step instructions on how to install ALT BYPASSER:
 
-[Installation Tutorial Video](installation-tutorial.mp4)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YOUR_VIDEO_ID" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 📝 Usage
 
@@ -43,7 +43,7 @@ ALT BYPASSER is intended for educational and testing purposes only. Use at your 
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/yourusername/alt-bypasser/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/RahulSDevloper/ALT-BYPASSER/issues).
 
 ## 📄 License
 
