@@ -32,6 +32,7 @@
 Please watch the installation tutorial video below for step-by-step instructions on how to install ALT BYPASSER:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YOUR_VIDEO_ID" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Watch the video]](https://raw.githubusercontent.com/RahulSDevloper/RahulSDevloper/branch/installation-tutorial.mp4)
 
 ## 📝 Usage
 
