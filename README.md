@@ -19,7 +19,7 @@
 
 ## 💳 Supported Payment Gateways
 
-![Stripe](https://your-image-url-here.com/stripe-logo.png)
+![Stripe][(https://partner.visa.com/content/dam/gpp/partner-directory/stripe-padded.png)
 
 ## 📥 Download
 
