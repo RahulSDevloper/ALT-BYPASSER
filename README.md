@@ -35,9 +35,7 @@
 Please watch the installation tutorial video below for step-by-step instructions on how to install ALT BYPASSER:
 
 <div align="center">
-  <a href="https://github.com/user-attachments/assets/eb1a6ff8-39ce-4eb1-8db6-a510f7546a65">
-    <img src="https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" alt="ALT BYPASSER Installation Tutorial" width="560" height="315" />
-  </a>
+https://github.com/user-attachments/assets/eb1a6ff8-39ce-4eb1-8db6-a510f7546a65
 </div>
 
 ## 📝 Usage
