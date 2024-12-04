@@ -2,7 +2,7 @@
 
 # ALT BYPASSER
 
-![ALT BYPASSER Logo](https://your-image-url-here.com/alt-bypasser-logo.png)
+<a href="https://ibb.co/JmMJqfM"><img src="https://i.ibb.co/JmMJqfM/icon128.png" alt="icon128" border="0" /></a>
 
 *Bypass most payment intents with ease!*
 
