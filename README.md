@@ -19,13 +19,13 @@
 
 ## 💳 Supported Payment Gateways
 
-![Stripe][(https://partner.visa.com/content/dam/gpp/partner-directory/stripe-padded.png)
+![Stripe](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Stripe_Logo%2C_revised_2016.svg/2560px-Stripe_Logo%2C_revised_2016.svg.png)
 
 ## 📥 Download
 
 **Current version: v1.1.0**
 
-[Download ALT BYPASSER](https://github.com/yourusername/alt-bypasser/releases/latest)
+[Download ALT BYPASSER](https://github.com/RahulSDevloper/ALT-BYPASSER/releases/latest)
 
 ## 🛠️ Installation
 
