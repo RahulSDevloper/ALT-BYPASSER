@@ -31,7 +31,7 @@
 
 Please watch the installation tutorial video below for step-by-step instructions on how to install ALT BYPASSER:
 
-[![Watch the video]](https://raw.githubusercontent.com/RahulSDevloper/RahulSDevloper/branch/installation-tutorial.mp4)
+https://github.com/user-attachments/assets/eb1a6ff8-39ce-4eb1-8db6-a510f7546a65
 
 ## 📝 Usage
 
